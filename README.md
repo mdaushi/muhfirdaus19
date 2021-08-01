@@ -25,6 +25,8 @@
 	<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25"> 
 	<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
 	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
+	<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25"/>
+  	<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
 	<!-- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25">  -->
 	<!-- <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25">  -->
 	<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="25"> 
