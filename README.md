@@ -9,9 +9,9 @@
 &nbsp;
 
 **About Me**
+- I'm work as Backend Developer at Pallaka Studio🖥️
 - I'm informatics engineering student🧑🏻‍🎓
 - I'm living at Makassar, Indonesia🇮🇩
-- I'm currently interning at Pallaka Studio🖥️
 - I’m looking to collaborate on anything!🙌🏻
 - I’m currently learning English 🤦🏻
 
